@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1688433997 source:c:\users\tc\desktop\c-studying\string library\string.c
+	<stdio.h>
+	<stdlib.h>
+	"STRING.h"
+
+1688434102 source:c:\users\tc\desktop\c-studying\string library\main.c
+	"STRING.h"
+	<stddef.h>
+
+1688433997 c:\users\tc\desktop\c-studying\string library\string.h
+
